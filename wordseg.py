@@ -2,8 +2,6 @@
 
 """
 Chinese word segmentation algorithm without corpus
-Author: 段凯强
-Reference: http://www.matrix67.com/blog/archives/5044
 """
 import math
 import re
