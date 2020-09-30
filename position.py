@@ -1,7 +1,7 @@
 
 """
 Algorithms for char position
-
+Author: Mao 
 """
 from collections import Counter
 def posrecord(text):
