@@ -2,7 +2,6 @@
 
 """
 Algorithms for sequences
-Author: 段凯强
 """
 
 def dedup(ls):
