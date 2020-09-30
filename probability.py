@@ -2,7 +2,6 @@
 
 """
 Algorithms about probability
-Author: 段凯强
 """
 
 import math
